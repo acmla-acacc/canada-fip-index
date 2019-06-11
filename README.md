@@ -16,3 +16,5 @@ Canadian Fire Insurance Plan Index (Geolocated Place Names)
 - Need to improve information display
 - Provide links to main collection pages (or sub-collection pages) for each organization listed in a collection's holdings.
 
+## Map GeoJSON
+[View Map] https://github.com/acmla-acacc/canada-fip-index/blob/master/ON-FIP-Index-v2.geojson 
