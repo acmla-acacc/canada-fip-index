@@ -1,7 +1,7 @@
 # canada-fip-index
 Canadian Fire Insurance Plan Index (Geolocated Place Names)
 
-(Digitization of the 'Catalogue of Canadian fire insurance plans, 1875-1975 / Lorraine Dubreuil, Cheryl A. Woods.Ottawa : Association of Canadian Map Libraries and Archives, 2002.')
+(Digitization of the 'Catalogue of Canadian fire insurance plans, 1875-1975 / Lorraine Dubreuil, Cheryl A. Woods. Ottawa: Association of Canadian Map Libraries and Archives, 2002.')
 
 ## Process
 - Information has come from [this Google Sheet](https://docs.google.com/spreadsheets/d/1lgdZendLE0A31_LldNS8bkRWa6p5nedHnSEH9LWVT6Y/edit#gid=1021922479).
