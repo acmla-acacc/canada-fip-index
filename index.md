@@ -1,4 +1,4 @@
-# Ontario Historical Fire Insurance Plan Index
+# Canadian Historical Fire Insurance Plan Index
 
 ***This project is in its early stages. Please consider all information as subject to change upon review***
 
