@@ -9,7 +9,7 @@ More information on the project and the process can be found in the project's [G
 
 ## FIP explorer (currently Ontario only)
 
-<script src="https://embed.github.com/view/geojson/acmla-acacc/canada-fip-index/main/ON-FIP-Index-v2.geojson?height=600&width=800"></script>
+<script src="https://embed.github.com/view/geojson/acmla-acacc/canada-fip-index/master/ON-FIP-Index-v2.geojson?height=600&width=800"></script>
 
 ## Key to location codes
 
