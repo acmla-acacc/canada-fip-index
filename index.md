@@ -3,13 +3,13 @@
 ***This project is in its early stages. Please consider all information as subject to change upon review***
 
 
-The purpose of this website and the larger project is to provide a geospatial index to historical Fire Insurance Plans (FIPs) across Canada. The source of the information presented here is **Catalogue of Canadian fire insurance plans, 1875-1975, by Lorraine Dubreuil, Cheryl A. Woods. Ottawa: Association of Canadian Map Libraries and Archives, 2002.**.
+The purpose of this website and the larger project is to provide a geospatial index to historical Fire Insurance Plans (FIPs) across Canada. The source of the information presented here is **Catalogue of Canadian fire insurance plans, 1875-1975, by Lorraine Dubreuil, Cheryl A. Woods. Ottawa: Association of Canadian Map Libraries and Archives, 2002.**
 
 More information on the project and the process can be found in the project's [GitHub repository](https://github.com/acmla-acacc/canada-fip-index).
 
 ## FIP explorer (currently Ontario only)
 
-<script src="https://embed.github.com/view/geojson/acmla-acacc/canada-fip-index/main/ON-FIP-Index-v2.geojson"></script>
+<script src="https://embed.github.com/view/geojson/acmla-acacc/canada-fip-index/main/ON-FIP-Index-v2.geojson?height=600&width=800"></script>
 
 ## Key to location codes
 
